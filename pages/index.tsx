@@ -15,7 +15,7 @@ const Index = () => (
       Odin Ugedal
       <br />
       <br />
-      Student. MSc in computer science, NTNU Doing mostly systems programming &
+      Student. MSc in computer science, NTNU. Doing mostly systems programming &
       Cloud Native
       <br />
       <br />
